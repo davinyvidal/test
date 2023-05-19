@@ -1,5 +1,11 @@
 {
-  "notifications":[
+  "notifications":{
+        count: 5,
+    next: null,
+    last: null,
+    page: 1,
+  
+  results:[
       {
         id: 1,
         Title: "Proz | Comunidado sobre nova unidade",
@@ -35,7 +41,7 @@
         description:
           "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. --- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do “eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       },
-  ],
+  ]},
   "profile": {
     "name": "typicode"
   }
